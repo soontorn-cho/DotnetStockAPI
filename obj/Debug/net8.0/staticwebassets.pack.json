@@ -1,0 +1,33 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\WorkshopAngularDotnet\\DotnetStockAPI\\wwwroot\\uploads\\0f051416-f283-4495-8e78-2eb243a21366.png",
+      "PackagePath": "staticwebassets\\uploads\\0f051416-f283-4495-8e78-2eb243a21366.png"
+    },
+    {
+      "Id": "C:\\WorkshopAngularDotnet\\DotnetStockAPI\\wwwroot\\uploads\\909ecfe9-ca76-4bf7-9680-607689c20c59.jpg",
+      "PackagePath": "staticwebassets\\uploads\\909ecfe9-ca76-4bf7-9680-607689c20c59.jpg"
+    },
+    {
+      "Id": "C:\\WorkshopAngularDotnet\\DotnetStockAPI\\wwwroot\\uploads\\98690a6d-46a7-485c-bc25-0d504115c7cb.jpg",
+      "PackagePath": "staticwebassets\\uploads\\98690a6d-46a7-485c-bc25-0d504115c7cb.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.DotnetStockAPI.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.DotnetStockAPI.props",
+      "PackagePath": "build\\DotnetStockAPI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.DotnetStockAPI.props",
+      "PackagePath": "buildMultiTargeting\\DotnetStockAPI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.DotnetStockAPI.props",
+      "PackagePath": "buildTransitive\\DotnetStockAPI.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
